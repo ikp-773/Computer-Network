@@ -1,6 +1,4 @@
-// Experiment -1
-// Adinath Ajith Naik
-// S6 CS-1 06
+
 
 #include<stdio.h>
 #include<stdlib.h>

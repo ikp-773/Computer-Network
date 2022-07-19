@@ -1,5 +1,5 @@
 // Experiment 3 P1
-// Adinath Ajith Naik S6 CS-1 06
+
 
 #include<stdio.h>
 #include<string.h>
@@ -25,7 +25,7 @@ void main()
 
 
 // Experiment - 3 P2
-// Adinath Ajith Naik S6 CS-1 06
+
 
 #include<stdio.h>
 #include<string.h>
