@@ -1,5 +1,5 @@
 // Experiment - 10 SMTP SERVER
-// Adinath Ajith Naik S6 CS-1 06
+
 
 #include<stdio.h>
 #include<string.h>

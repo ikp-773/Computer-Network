@@ -1,5 +1,5 @@
 // Exp 8 Distance Vector Routing
-// Adinath Ajith Naik S6 CS-1  06
+
 
 #include<stdio.h>
 #include<stdlib.h>

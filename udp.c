@@ -1,5 +1,5 @@
 // Experiment-6 UDP SERVER
-// Adinath Ajith Naik S6 CS-1 06
+
 
 #include<stdio.h>
 #include<netinet/in.h>
